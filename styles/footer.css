@@ -2,11 +2,10 @@ footer {
   display: flex;
   gap: 24px;
 
-  font: var(--text-sm);
+  font: 14px/150% var(--font-family);
   padding-block: 24px;
 }
 
 footer span:nth-child(1) {
   margin-right: auto;
 }
-
